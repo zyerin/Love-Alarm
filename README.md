@@ -12,5 +12,5 @@
 ## ⭐ UI
 ![최종](https://github.com/zyerin/Love-Alarm/assets/131842185/ea969e5b-3eb3-41b3-bbb0-4c01c50cb1dd)
 
-## 📈 📉
+## 📈 플로우 차트 📉
 ![플로우차트](https://github.com/zyerin/Love-Alarm/assets/131842185/b59ad644-19d1-449f-bee7-a9dcca57dd5e)
