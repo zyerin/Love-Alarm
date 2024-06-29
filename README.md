@@ -8,9 +8,13 @@
 ### 📄 주요기능
 해당 어플리케이션의 대표적인 기능은 심박수가 일정 수준 이상 올라가면 상대방에게 호감을 느꼈다고 판단하고, 이를 푸시알림을 통해 확인시켜주는 것입니다.
 앞서 말했듯이 의학적인 부분과는 거리를 두고 재미의 요소로 활용하고자 하였기 때문에, 심박수의 기준은 임의로 100bpm으로 설정해두었습니다.
+
 ---
+
 ### <p align = "center">⭐ UI ⭐
 ![최종](https://github.com/zyerin/Love-Alarm/assets/131842185/ea969e5b-3eb3-41b3-bbb0-4c01c50cb1dd)
+
+---
 
 ### <p align = "center">📈 플로우 차트 📉
 ![플로우차트](https://github.com/zyerin/Love-Alarm/assets/131842185/b59ad644-19d1-449f-bee7-a9dcca57dd5e)
